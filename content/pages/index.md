@@ -30,7 +30,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Camelot News
+    title: Camelot Estate News
     colors: colors-h
     posts:
       - content/pages/blog/issue-01.md
