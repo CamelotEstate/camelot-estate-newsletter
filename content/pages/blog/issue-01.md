@@ -19,7 +19,39 @@ featuredImage:
     Welcome to our first ever issue of Camelot Estate News. This issue will be
     packed with information of what is happening and will be distributed on a
     quarterly basis.
-bottomSections: []
+bottomSections:
+  - type: FeaturedPeopleSection
+    elementId: ''
+    variant: variant-a
+    colors: colors-f
+    title: About us
+    subtitle: Featured people section example
+    actions: []
+    people:
+      - content/data/team/desmond-eagle.json
+      - content/data/team/dianne-ameter.json
+      - content/data/team/hilary-ouse.json
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
 ---
 ### **Mee the Trustees**
 
