@@ -94,13 +94,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "/",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "Facebook",
                 "label": "Facebook",
                 "url": "/",
