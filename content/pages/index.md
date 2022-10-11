@@ -33,4 +33,5 @@ sections:
     colors: colors-a
     posts:
       - content/pages/blog/issue-01.md
+    variant: variant-a
 ---
