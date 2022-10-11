@@ -24,7 +24,7 @@ bottomSections:
     elementId: ''
     variant: variant-a
     colors: colors-f
-    title: About us
+    title: Meet the Trustees
     subtitle: Featured people section example
     actions: []
     people:
