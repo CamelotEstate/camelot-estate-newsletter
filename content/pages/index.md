@@ -31,7 +31,7 @@ sections:
       actions:
         justifyContent: center
     title: Camelot Estate News
-    colors: colors-a
+    colors: colors-f
     posts:
       - content/pages/blog/issue-01.md
 ---
