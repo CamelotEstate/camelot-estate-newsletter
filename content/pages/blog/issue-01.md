@@ -32,6 +32,7 @@ bottomSections:
       - content/data/team/dianne-ameter.json
       - content/data/team/hilary-ouse.json
       - content/data/team/person-x3tsex0vw.json
+      - content/data/team/person-bxpj9w90w.json
     styles:
       self:
         height: auto
