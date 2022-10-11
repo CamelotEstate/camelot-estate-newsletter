@@ -31,8 +31,8 @@ bottomSections:
       - content/data/team/person-5vidvrt17.json
       - content/data/team/person-gmwd3tt0q.json
       - content/data/team/person-bxpj9w90w.json
-      - content/data/team/person-x3tsex0vw.json
       - content/data/team/person-4ded5ixtt.json
+      - content/data/team/person-x3tsex0vw.json
     styles:
       self:
         height: auto
