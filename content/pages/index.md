@@ -8,12 +8,7 @@ sections:
     showAuthor: true
     showExcerpt: true
     variant: variant-b
-    actions:
-      - type: Button
-        label: View All
-        altText: View All Posts
-        url: /blog
-        style: primary
+    actions: []
     styles:
       self:
         height: auto
