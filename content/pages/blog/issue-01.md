@@ -90,7 +90,7 @@ The frequent Load-Shedding being implemented by the energy provider has been dam
 
 Until we have our full back up power, all owners and residents are hereby reminded that in the event of loadshedding or the intercomsystem being offline, visitors will be requested to contact the resident personally. Visitors willbe signed in manually and resident’s will have to meet their visitor at the gate to grant access.This is commonly referred to as the **“Meet & Greet system”**.Your cooperation and understanding in this regard is appreciated.
 
-### \*\*General Maintanance \*\*
+### **General Maintanance**
 
 ##### **Painting of Walls**
 
@@ -100,6 +100,6 @@ Kindly note that Camelot is registered as a Homeowners Association and not a Bod
 
 *   **Fascia Boards and Dutch Gable planks: Midalux 240 P\&M (Colour: Sugas – PSW 9099)**
 
-**Browning on outside walls**
+##### **Browning on outside walls**
 
 The trustees confirmed that they are currently in the process of fixing the browning of the wall issue. It is taking a bit longer then planned, but rest assure the browning of the outside walls will be fixed soon.
