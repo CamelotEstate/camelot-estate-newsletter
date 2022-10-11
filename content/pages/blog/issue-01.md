@@ -22,7 +22,6 @@ featuredImage:
 bottomSections:
   - type: FeaturedPeopleSection
     elementId: ''
-    variant: variant-a
     colors: colors-f
     title: Meet the Trustees
     subtitle: Featured people section example
