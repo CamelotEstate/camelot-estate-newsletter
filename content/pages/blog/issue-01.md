@@ -28,7 +28,6 @@ bottomSections:
     subtitle: Featured people section example
     actions: []
     people:
-      - content/data/team/dianne-ameter.json
       - content/data/team/person-x3tsex0vw.json
       - content/data/team/person-bxpj9w90w.json
     styles:
