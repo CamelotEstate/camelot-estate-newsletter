@@ -7,14 +7,7 @@
         "secondaryColors": "colors-f",
         "title": "Camelot Estate Newsletter",
         "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Newsletters",
-                "url": "/",
-                "altText": "Newsletters"
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [],
         "styles": {
             "self": {
