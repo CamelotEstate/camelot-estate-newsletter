@@ -2,10 +2,5 @@
     "type": "Person",
     "firstName": "Heinrich",
     "lastName": "Theunissen",
-    "role": "Chairman Portfolio",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/desmond-eagle.jpg",
-        "altText": "Desmond Eagle photo"
-    }
+    "role": "Chairman Portfolio"
 }
