@@ -21,7 +21,7 @@ Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur
 
 > Vestibulum ullamcorper risus auctor eleifend consequat.
 >
-> ![](/images/camelot-estate-entrance-side.jpg)
+> ![](/images/camelot-estate-entrance-side-a3ff9ab1.jpg)
 
 In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
