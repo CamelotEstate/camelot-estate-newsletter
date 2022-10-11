@@ -25,19 +25,26 @@ bottomSections: []
 
 With only a few units still left – we are confident the developer will be complete within xxx
 
-![](/images/camelot-estate-entrance-side-a3ff9ab1.jpg)
 
-### **Playground** 
+
+### **Playground**
 
 *   A second jungle gym was erected to ensure our children have a variety of play and cater to their different needs.
 
 <!---->
 
-*   2x Bins were placed in the playground/area to ensure we always keep the area clean. Parents, please educate and drive that all park users always utilize the bins provided.
+*   2x Bins were placed in the playground/area to ensure we always keep the area clean. Parents, please educate and drive that all park users always utilize the bins provided. 
+
+<!---->
+
+*   2 Disclaimer sign has also been added. Parents are urged that
+    children are under parents’ supervision when on the premises of the park
+
+![](/images/park%20newsleter.jpg)
 
 
 
-### **Speeding** 
+### **Speeding**
 
 ![](/images/20-a5bd831b.jpg)
 
@@ -45,6 +52,27 @@ The speed limit in and around the estate is 20km/h. a Reminder to please adhere 
 
 
 
+# Security
+
+In recent months we’ve had issues where
+security is concerned. Please remember all visitors either known by the guard
+or not need to always sign in at the gate. 
+
+We have engaged and raised concerned with
+the security provider company and all issue are still work in progress and we
+are closely following up. 
+
+The frequent Load-Shedding being
+implemented by the energy provider has been damaging to our gate motor. However,
+we have procured an inverter and a battery, that will keep the gate, lights,
+electric fence, camera and the intercom system during loadshedding. Please bear
+with us while we await the delivery of some of the items that will make our
+lives simpler. 
+
+Watch this space new and exciting proposed
+upgrades coming in the next couple of months.
+
+ 
 
 
 
@@ -58,8 +86,7 @@ The speed limit in and around the estate is 20km/h. a Reminder to please adhere 
 
 
 
-Parents are urged that
-children are under parents’ supervision when on the premises of the park
+
 
 
 
