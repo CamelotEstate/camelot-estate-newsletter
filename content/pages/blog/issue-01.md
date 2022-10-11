@@ -35,11 +35,11 @@ bottomSections: []
 
 ### **Word from the Trustees**
 
-The trustees of Camelot Estate would like take this moment and thank everybody for their patients while the transition from developer to Home Owners is finalised. We all want this process to completed as soon as we can but unfortunetley, we are still awaiting for the final houses to be completed. At the moment we have no time line as to when this will be completed but as soon as we have this information we will share it with the home owners. Once this is done, there will still be handover required from the developer. This is where the trustees will investigate the work that has been done from the developer and if all is not to a satifactary manner, the trustees will send these items back to the developer. 
+The trustees of Camelot Estate would like take this moment and thank everybody for their patients while the transition from developer to Home Owners is finalised. We all want this process to completed as soon as we can but unfortunetley, we are still awaiting for the final houses to be completed. At the moment we have no time line as to when this will be completed but as soon as we have this information we will share it with the home owners. Once this is done, there will still be handover required from the developer. This is where the trustees will investigate the work that has been done from the developer and if all is not to a satifactary manner, the trustees will send these items back to the developer.
 
 We encourage all residents to please sent any un-satifactary items on the commen property to info@hjm.co.za so that we can discuss it with the developer. Please note, all items inside the residents property must be taken up to the developer in a personal capacity.
 
-The trustees also acknowledge the fact that the residents are not aware of whats going on, when will the hand over be completed, what communication channels to follow, who is the trustees, just to mention a few. Rest asured we are working very hard to get everything completed as soon as we can. 
+The trustees also acknowledge the fact that the residents are not aware of whats going on, when will the hand over be completed, what communication channels to follow, who is the trustees, just to mention a few. Rest asured we are working very hard to get everything completed as soon as we can.
 
 We will be sending out quarterly updates as to where we are and we plan to do to make Camelot Estate safe and the estate that we all want.
 
@@ -49,7 +49,7 @@ Thanks
 
 Marius Van Zyl - 083 699 4418
 
-### &#xA;**Playground**
+### **Playground**
 
 *   A second jungle gym was erected to ensure our children have a variety of play and cater to their different needs.
 
@@ -74,7 +74,7 @@ Residents are reminded to, for the safety of all residents, to please comply wit
 
 Owners are reminded that any breech of the conduct rules may result in the imposition of penalties and administration fees which will be added to the monthly levy account. It remains the responsibility of each owner to recoup such costs from a tenant.
 
-### &#xA;&#xA;&#xA;**Security**
+### &#xA;&#xA;**Security**
 
 In recent months we’ve had issues where security is concerned. Please remember all visitors either known by the guard or not need to always sign in at the gate.
 
@@ -90,9 +90,7 @@ The frequent Load-Shedding being implemented by the energy provider has been dam
 
 Until we have our full back up power, all owners and residents are hereby reminded that in the event of loadshedding or the intercomsystem being offline, visitors will be requested to contact the resident personally. Visitors willbe signed in manually and resident’s will have to meet their visitor at the gate to grant access.This is commonly referred to as the **“Meet & Greet system”**.Your cooperation and understanding in this regard is appreciated.
 
-
-
-### **General Maintanance **
+### \*\*General Maintanance \*\*
 
 ##### **Painting of Walls**
 
