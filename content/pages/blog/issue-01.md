@@ -13,7 +13,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/camelot-estate-entrance-side-a3ff9ab1.jpg
-  altText: Post thumbnail image
+  altText: Camelot Estate Image
   caption: >-
     Welcome to our first ever issue of Camelot Estate News. This issue will be
     packed with information of what is happening and will be distributed on a
