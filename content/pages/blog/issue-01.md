@@ -53,7 +53,6 @@ bottomSections:
         textAlign: center
       actions:
         justifyContent: center
-    variant: variant-a
 ---
 ### **Mee the Trustees**
 
