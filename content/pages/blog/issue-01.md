@@ -8,8 +8,9 @@ metaTags: []
 title: Camelot Estate Newsletter - Issue 01
 date: '2022-10-11'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Welcome to our first ever issue of Camelot Estate News. This issue will be
+  packed with information of what is happening and will be distributed on a
+  quarterly basis.
 featuredImage:
   type: ImageBlock
   url: /images/camelot-estate-entrance-side-a3ff9ab1.jpg
