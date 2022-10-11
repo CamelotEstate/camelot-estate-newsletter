@@ -54,18 +54,6 @@ bottomSections:
       actions:
         justifyContent: center
 ---
-### **Mee the Trustees**
-
-**Heinrich Theunissen** - Chairman
-
-**Oswin Losper** - Maintanance Portfolio
-
-**Tumie Mosiea** - Communication Portfolio
-
-**Danie van der Linde** - Gardening Portfolio
-
-**Konrad Tjaden** - Security Portfolio
-
 ### **Word from the Trustees**
 
 The trustees of Camelot Estate would like take this moment and thank everybody for their patients while the transition from developer to Home Owners is finalised. We all want this process to completed as soon as we can but unfortunetley, we are still awaiting for the final houses to be completed. At the moment we have no time line as to when this will be completed but as soon as we have this information we will share it with the home owners. Once this is done, there will still be handover required from the developer. This is where the trustees will investigate the work that has been done from the developer and if all is not to a satifactary manner, the trustees will send these items back to the developer.
