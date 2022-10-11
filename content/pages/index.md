@@ -35,7 +35,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Featured
+    title: Camelot News
     subtitle: Featured blog posts section example
     colors: colors-h
     posts:
