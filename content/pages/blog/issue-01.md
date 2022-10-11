@@ -14,7 +14,10 @@ featuredImage:
   type: ImageBlock
   url: /images/camelot-estate-entrance-side-a3ff9ab1.jpg
   altText: Post thumbnail image
-  caption: ''
+  caption: >-
+    Welcome to our first ever issue of Camelot Estate News. This issue will be
+    packed with information of what is happening and will be distributed on a
+    quarterly basis.
 bottomSections: []
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
