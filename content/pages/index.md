@@ -6,7 +6,7 @@ sections:
     elementId: ''
     showDate: false
     showAuthor: false
-    showExcerpt: false
+    showExcerpt: true
     variant: variant-b
     actions:
       - type: Button
