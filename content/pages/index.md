@@ -7,7 +7,7 @@ sections:
     showDate: true
     showAuthor: true
     showExcerpt: true
-    variant: variant-b
+    variant: variant-c
     actions: []
     styles:
       self:
