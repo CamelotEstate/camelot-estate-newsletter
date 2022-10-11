@@ -21,12 +21,46 @@ featuredImage:
     quarterly basis.
 bottomSections: []
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+### **Developer Update**
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
->
-> ![](/images/camelot-estate-entrance-side-a3ff9ab1.jpg)
+With only a few units still left – we are confident the developer will be complete within xxx
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+![](/images/camelot-estate-entrance-side-a3ff9ab1.jpg)
+
+### **Playground** 
+
+*   A second jungle gym was erected to ensure our children have a variety of play and cater to their different needs.
+
+<!---->
+
+*   2x Bins were placed in the playground/area to ensure we always keep the area clean. Parents, please educate and drive that all park users always utilize the bins provided.
+
+
+
+### **Speeding** 
+
+![](/images/20-a5bd831b.jpg)
+
+The speed limit in and around the estate is 20km/h. a Reminder to please adhere and be considerate to the children and animals on the road.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parents are urged that
+children are under parents’ supervision when on the premises of the park
+
+
 
 Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
