@@ -36,7 +36,6 @@ sections:
       actions:
         justifyContent: center
     title: Camelot News
-    subtitle: Featured blog posts section example
     colors: colors-h
     posts:
       - content/pages/blog/issue-01.md
