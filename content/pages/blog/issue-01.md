@@ -74,7 +74,7 @@ Residents are reminded to, for the safety of all residents, to please comply wit
 
 Owners are reminded that any breech of the conduct rules may result in the imposition of penalties and administration fees which will be added to the monthly levy account. It remains the responsibility of each owner to recoup such costs from a tenant.
 
-### &#xA;&#xA;**Security**
+### **Security**
 
 In recent months we’ve had issues where security is concerned. Please remember all visitors either known by the guard or not need to always sign in at the gate.
 
