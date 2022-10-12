@@ -19,40 +19,7 @@ featuredImage:
     Welcome to our first ever issue of Camelot Estate News. This issue will be
     packed with information of what is happening and will be distributed on a
     quarterly basis.
-bottomSections:
-  - type: FeaturedPeopleSection
-    elementId: ''
-    colors: colors-f
-    title: Meet the Trustees
-    subtitle: Featured people section example
-    actions: []
-    people:
-      - content/data/team/person-5vidvrt17.json
-      - content/data/team/person-gmwd3tt0q.json
-      - content/data/team/person-bxpj9w90w.json
-      - content/data/team/person-4ded5ixtt.json
-      - content/data/team/person-x3tsex0vw.json
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-4
-          - pb-1
-          - pl-1
-          - pr-1
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
+bottomSections: []
 ---
 ### **Meet the Trustees**
 
