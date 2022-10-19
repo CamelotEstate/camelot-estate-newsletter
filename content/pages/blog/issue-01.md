@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 metaDescription: null
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/camelot-estate-entrance.jpg
 metaTags: []
 title: Camelot Estate Newsletter - Issue 01
 date: '2022-10-11'
