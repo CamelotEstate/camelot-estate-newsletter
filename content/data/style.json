@@ -76,7 +76,7 @@
     },
     "link": {
         "weight": "normal",
-        "case": "uppercase",
+        "case": "capitalize",
         "letterSpacing": "normal"
     }
 }
