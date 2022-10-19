@@ -39,11 +39,11 @@ Marius Van Zyl - 083 699 4418
 
 ### **Word from the Trustees**
 
-The trustees of Camelot Estate would like take this moment and thank everybody for their patients while the transition from developer to Home Owners is finalised. We all want this process to completed as soon as we can but unfortunetley, we are still awaiting for the final houses to be completed. At the moment we have no time line as to when this will be completed but as soon as we have this information we will share it with the home owners. Once this is done, there will still be handover required from the developer. This is where the trustees will investigate the work that has been done from the developer and if all is not to a satifactary manner, the trustees will send these items back to the developer.
+The trustees of Camelot Estate would like take this moment and thank everybody for their patients while the transition from developer to Home Owners is finalised. We all want this process to completed as soon as we can but unfortunately, we are still awaiting for the final houses to be completed. At the moment we have no time line as to when this will be completed but as soon as we have this information we will share it with the home owners. Once this is done, there will still be handover required from the developer. This is where the trustees will investigate the work that has been done from the developer and if all is not to a satisfactory manner, the trustees will send these items back to the developer.
 
-We encourage all residents to please sent any un-satifactary items on the commen property to info@hjm.co.za so that we can discuss it with the developer. Please note, all items inside the residents property must be taken up to the developer in a personal capacity.
+We encourage all residents to please sent any un-satifactary items on the common property to info@hjm.co.za so that we can discuss it with the developer. Please note, all items inside the residents property must be taken up to the developer in a personal capacity.
 
-The trustees also acknowledge the fact that the residents are not aware of whats going on, when will the hand over be completed, what communication channels to follow, who is the trustees, just to mention a few. Rest asured we are working very hard to get everything completed as soon as we can.
+The trustees also acknowledge the fact that the residents are not aware of whats going on, when will the hand over be completed, what communication channels to follow, who is the trustees, just to mention a few. Rest assured we are working very hard to get everything completed as soon as we can.
 
 We will be sending out quarterly updates as to where we are and we plan to do to make Camelot Estate safe and the estate that we all want.
 
@@ -59,8 +59,7 @@ Thanks
 
 <!---->
 
-*   2 Disclaimer sign has also been added. Parents are urged that
-    children are under parents’ supervision when on the premises of the park
+*   2 Disclaimer sign has also been added. Parents are urged that children are under parents’ supervision when on the premises of the park
 
 <!---->
 
@@ -106,4 +105,4 @@ Kindly note that Camelot is registered as a Homeowners Association and not a Bod
 
 ##### **Browning on outside walls**
 
-The trustees confirmed that they are currently in the process of fixing the browning of the wall issue. It is taking a bit longer then planned, but rest assure the browning of the outside walls will be fixed soon.
+The bronwing of wall issue has been sorted now, after a lot conversation as to the best and cost effective way, it was deciced to change the sprinkler heads on the sprinkler system. This did take longer than expcected because of lack of information as do how the sprinkler system works. The trustees can confirm now, that the browning of the walls has been fixed now.
