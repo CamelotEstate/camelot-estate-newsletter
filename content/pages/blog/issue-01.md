@@ -59,11 +59,12 @@ Thanks
 
 <!---->
 
-*   2 Disclaimer sign has also been added. Parents are urged that children are under parents’ supervision when on the premises of the park
+*   2 Disclaimer sign has also been added. Parents are urged that children need to be under parents supervision when on the premises of the park.
 
 <!---->
 
 *   With the use of the jungle gyms, a big hole as been opened up under one of swings section. This is a big saferty risk and a new sandpit has been installed.
+*   There have been a few incidents where the children playing in the park are also changing and playing with the sprinkler heads, we encourgae all parents to educate children to not adjust the sprinkler heads while its on.
 
 ![](/images/park%20newsleter.jpg)
 
