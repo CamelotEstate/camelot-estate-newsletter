@@ -61,6 +61,9 @@ Thanks
 
 *   2 Disclaimer sign has also been added. Parents are urged that
     children are under parents’ supervision when on the premises of the park
+
+<!---->
+
 *   With the use of the Jungle gyms, a big hole as been opened up under one of swings section. This is a big saferty risk and a new sandpit has been installed.
 
 ![](/images/park%20newsleter.jpg)
