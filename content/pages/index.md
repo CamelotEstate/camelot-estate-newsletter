@@ -1,5 +1,5 @@
 ---
-title: Home
+title: New Letter
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
