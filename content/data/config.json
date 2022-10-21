@@ -20,7 +20,18 @@
                 "elementId": "nav_main-site"
             }
         ],
-        "secondaryLinks": [],
+        "secondaryLinks": [
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/https://camelot-estate.co.za",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "narrow",
