@@ -93,7 +93,7 @@ The frequent Load-Shedding being implemented by the energy provider has been dam
 
 Until we have our full back up power, all owners and residents are hereby reminded that in the event of loadshedding or the intercomsystem being offline, visitors will be requested to contact the resident personally. Visitors willbe signed in manually and resident’s will have to meet their visitor at the gate to grant access.This is commonly referred to as the **“Meet & Greet system”**.Your cooperation and understanding in this regard is appreciated.
 
-### **General Maintanance**
+### **General Maintenance**
 
 ##### **Painting of Walls**
 
@@ -106,3 +106,4 @@ Kindly note that Camelot is registered as a Homeowners Association and not a Bod
 ##### **Browning on outside walls**
 
 The browning of wall issue has been sorted now, after a lot conversation as to the best and cost effective way, it was deciced to change the sprinkler heads on the sprinkler system. This did take longer than expcected because of lack of information as do how the sprinkler system works. The trustees can confirm now, that the browning of the walls has been fixed now.
+
