@@ -10,16 +10,6 @@
         "primaryLinks": [],
         "secondaryLinks": [
             {
-                "type": "Link",
-                "label": "Main Website",
-                "altText": "Camelot Estate Main Website",
-                "url": "/https://camelot-estate.co.za",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
                 "type": "Button",
                 "label": "Main Wesbite",
                 "altText": "",
