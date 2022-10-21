@@ -37,4 +37,5 @@ sections:
 metaTitle: Camelot Estate | News Letter
 metaDescription: Camelot Estate | News Letter
 addTitleSuffix: true
+socialImage: /images/camelot-estate-entrance.jpg
 ---
