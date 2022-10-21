@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: Newsletter Issue 01
+metaTitle: Camelot Estate - Newsletter Issue 01
 metaDescription: null
 addTitleSuffix: true
 socialImage: /images/camelot-estate-entrance.jpg
