@@ -41,7 +41,7 @@ Marius Van Zyl - 083 699 4418
 
 The trustees of Camelot Estate would like take this moment and thank everybody for their patients while the transition from developer to Home Owners is finalised. We all want this process to completed as soon as we can but unfortunately, we are still awaiting for the final houses to be completed. At the moment we have no time line as to when this will be completed but as soon as we have this information we will share it with the home owners. Once this is done, there will still be handover required from the developer. This is where the trustees will investigate the work that has been done from the developer and if all is not to a satisfactory manner, the trustees will send these items back to the developer.
 
-We encourage all residents to please sent any un-satifactary items on the common property to info@hjm.co.za so that we can discuss it with the developer. Please note, all items inside the residents property must be taken up to the developer in a personal capacity.
+We encourage all residents to please sent any un-satisfactory items on the common property to info@hjm.co.za so that we can discuss it with the developer. Please note, all items inside the residents property must be taken up to the developer in a personal capacity.
 
 The trustees also acknowledge the fact that the residents are not aware of whats going on, when will the hand over be completed, what communication channels to follow, who is the trustees, just to mention a few. Rest assured we are working very hard to get everything completed as soon as we can.
 
@@ -106,4 +106,3 @@ Kindly note that Camelot is registered as a Homeowners Association and not a Bod
 ##### **Browning on outside walls**
 
 The browning of wall issue has been sorted now, after a lot conversation as to the best and cost effective way, it was deciced to change the sprinkler heads on the sprinkler system. This did take longer than expcected because of lack of information as do how the sprinkler system works. The trustees can confirm now, that the browning of the walls has been fixed now.
-
