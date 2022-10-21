@@ -11,7 +11,7 @@
             {
                 "type": "Button",
                 "label": "Main Website",
-                "altText": "",
+                "altText": "Camelot Estate Wesbite",
                 "url": "https://camelot-estate.co.za",
                 "showIcon": false,
                 "icon": "arrowRight",
