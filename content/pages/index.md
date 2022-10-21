@@ -1,5 +1,5 @@
 ---
-title: Camelot Estate News Letter
+title: Camelot Estate | News Letter
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
