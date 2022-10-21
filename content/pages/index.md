@@ -1,5 +1,5 @@
 ---
-title: New Letter
+title: News Letter
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
