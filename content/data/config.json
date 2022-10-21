@@ -24,7 +24,7 @@
             {
                 "type": "Link",
                 "label": "Main Website",
-                "altText": "",
+                "altText": "Camelot Estate Main Website",
                 "url": "/https://camelot-estate.co.za",
                 "showIcon": false,
                 "icon": "arrowRight",
