@@ -7,19 +7,7 @@
         "secondaryColors": "colors-f",
         "title": "Camelot Estate Newsletter",
         "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "type": "Button",
-                "label": "Main Website",
-                "altText": "Camelot Estate Wesbite",
-                "url": "https://camelot-estate.co.za",
-                "showIcon": true,
-                "icon": "arrowLeft",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": "nav_main-site"
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [
             {
                 "type": "Link",
