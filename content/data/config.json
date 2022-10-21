@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/fav icon.png",
     "header": {
-        "headerVariant": "variant-d",
+        "headerVariant": "variant-e",
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "title": "Camelot Estate Newsletter",
