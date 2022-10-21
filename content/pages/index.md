@@ -34,4 +34,5 @@ sections:
     posts:
       - content/pages/blog/issue-01.md
     variant: variant-c
+metaTitle: Camelot Estate | News Letter
 ---
