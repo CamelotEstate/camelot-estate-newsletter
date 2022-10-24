@@ -69,7 +69,7 @@ The trustees thanks all home owners patients during this time, but rest assured 
 
 *   With the use of the jungle gyms, a big hole as been opened up under one of swings section. This is a big saferty risk and a new sandpit has been installed.
 
-![](/images/park%20newsleter.jpg)
+
 
 ### **Speeding**
 
