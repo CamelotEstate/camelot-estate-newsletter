@@ -69,7 +69,7 @@ The trustees thanks all home owners patients during this time, but rest assured 
 
 *   With the use of the jungle gyms, a big hole as been opened up under one of swings section. This is a big saferty risk and a new sandpit has been installed.
 
-
+![](/images/park%20newsleter-075c81ab.jpg)
 
 ### **Speeding**
 
@@ -107,4 +107,4 @@ Kindly note that Camelot is registered as a Homeowners Association and not a Bod
 
 ##### **Browning on outside walls**
 
-The browning of wall issue has been sorted now, after a lot conversation as to the best and cost effective way, it was deciced to change the sprinkler heads on the sprinkler system. This did take longer than expcected because of lack of information as do how the sprinkler system works. The trustees can confirm now, that the browning of the walls has been fixed.![](/images/park%20newsleter-075c81ab.jpg)
+The browning of wall issue has been sorted now, after a lot conversation as to the best and cost effective way, it was deciced to change the sprinkler heads on the sprinkler system. This did take longer than expcected because of lack of information as do how the sprinkler system works. The trustees can confirm now, that the browning of the walls has been fixed.
