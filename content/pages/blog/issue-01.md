@@ -73,8 +73,6 @@ The trustees thanks all home owners patients during this time, but rest assured 
 
 ### **Speeding**
 
-![](/images/20-a5bd831b.jpg)
-
 **Speed of all Vehicles** – Vehicles driven on the roads within Camelot, should not drive faster than 20 km/h and should be driven in a safe manner and with due regard to other road users/pedestrians and owners/occupiers of units.
 
 Residents are reminded to, for the safety of all residents, to please comply with the speed limit within the complex and to please ensure that any visitors to the complex are aware of this limit.
