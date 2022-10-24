@@ -107,4 +107,4 @@ Kindly note that Camelot is registered as a Homeowners Association and not a Bod
 
 ##### **Browning on outside walls**
 
-The browning of wall issue has been sorted now, after a lot conversation as to the best and cost effective way, it was deciced to change the sprinkler heads on the sprinkler system. This did take longer than expcected because of lack of information as do how the sprinkler system works. The trustees can confirm now, that the browning of the walls has been fixed.
+The browning of wall issue has been sorted now, after a lot conversation as to the best and cost effective way, it was deciced to change the sprinkler heads on the sprinkler system. This did take longer than expcected because of lack of information as do how the sprinkler system works. The trustees can confirm now, that the browning of the walls has been fixed.![](/images/park%20newsleter-075c81ab.jpg)
