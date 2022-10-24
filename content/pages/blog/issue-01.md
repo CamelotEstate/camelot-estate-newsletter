@@ -13,7 +13,7 @@ excerpt: >-
   quarterly basis.
 featuredImage:
   type: ImageBlock
-  url: /images/camelot-estate-entrance-side-a3ff9ab1.jpg
+  url: /images/camelot-estate-entrance.jpg
   altText: Camelot Estate Image
   caption: >-
     Welcome to our first ever issue of Camelot Estate News. This issue will be
