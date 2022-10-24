@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Camelot Estate | News Letter
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
@@ -34,4 +34,8 @@ sections:
     posts:
       - content/pages/blog/issue-01.md
     variant: variant-c
+metaTitle: Camelot Estate | News Letter
+metaDescription: Camelot Estate | News Letter
+addTitleSuffix: true
+socialImage: /images/camelot-estate-entrance.jpg
 ---

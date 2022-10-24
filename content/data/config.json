@@ -8,13 +8,25 @@
         "title": "Camelot Estate Newsletter",
         "isTitleVisible": false,
         "primaryLinks": [],
-        "secondaryLinks": [],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Main Wesbite",
+                "altText": "",
+                "url": "https://camelot-estate.co.za",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "narrow",
                 "padding": [
                     "pt-10",
-                    "pb-11",
+                    "pb-0",
                     "pr-4",
                     "pl-4"
                 ]
