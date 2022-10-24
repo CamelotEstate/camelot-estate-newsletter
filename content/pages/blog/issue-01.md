@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: /images/camelot-estate-entrance.jpg
 metaTags: []
 title: Camelot Estate Newsletter - Issue 01
-date: '2022-10-21'
+date: '2022-10-24'
 excerpt: >-
   Welcome to our first ever issue of Camelot Estate News. This issue will be
   packed with information of what is happening and will be distributed on a
