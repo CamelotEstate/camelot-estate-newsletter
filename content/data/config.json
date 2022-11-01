@@ -11,7 +11,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Main Wesbite",
+                "label": "Main Website",
                 "altText": "",
                 "url": "https://camelot-estate.co.za",
                 "showIcon": false,
